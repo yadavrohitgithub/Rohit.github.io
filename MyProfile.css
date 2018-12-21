@@ -1,0 +1,112 @@
+.background
+{
+ 
+    background-image: url("bg.jpg");
+}
+
+.main
+{
+  
+    height: 1150px;
+    width: 800px;
+    margin: 0px auto;  
+    
+}
+.header
+{
+    height: 250px;
+    width: 800px;
+    float: left;
+    background-color: white;
+    border-radius: 20px 20px 20px 0px;
+    
+}
+
+.head_left
+{
+    height: 250px;
+    width: 200px; 
+    float: left;
+    background-color: green;
+}
+.photo
+{
+    height: 230px;
+    width: 180px;
+    margin: 0px auto;
+    margin-top: 10px;
+    background-image: url("ROHIT_YADAV_NEW_01.jpg");
+}
+
+.head_right
+{
+    height: 250px;
+    width: 600px; 
+    float: left;
+    border-radius: 0px 0px 20px 0px;
+
+}
+
+.name_info
+{
+    height: 190px;
+    width: 500px;
+    margin: 30px 50px 30px 50px;
+    background-color: white;
+    border-radius: 0px 0px 20px 0px;
+}
+
+.middle
+{
+    height: 340px;
+    width: 800px;
+    float: left;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.middle_notes
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 300px;
+    width: 7500px;
+}
+.bottom
+{
+    height: 300px;
+    width: 800px;
+    float: left;
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 10px;
+}
+.bottom_notes
+{
+    height: 280px;
+    width: 780px; 
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.footer
+{
+    height: 200px;
+    width: 800px; 
+    float: left;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.footer_notes
+{
+    height: 120px;
+    width: 750px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 30px 30px 30px 30px;
+    
+}
